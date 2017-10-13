@@ -1,0 +1,10 @@
+D:\Programação\Moving to .Net Core 2.0\BTD\bin\Debug\netcoreapp2.0\BTD.deps.json
+D:\Programação\Moving to .Net Core 2.0\BTD\bin\Debug\netcoreapp2.0\BTD.runtimeconfig.json
+D:\Programação\Moving to .Net Core 2.0\BTD\bin\Debug\netcoreapp2.0\BTD.runtimeconfig.dev.json
+D:\Programação\Moving to .Net Core 2.0\BTD\bin\Debug\netcoreapp2.0\BTD.dll
+D:\Programação\Moving to .Net Core 2.0\BTD\bin\Debug\netcoreapp2.0\BTD.pdb
+D:\Programação\Moving to .Net Core 2.0\BTD\obj\Debug\netcoreapp2.0\BTD.csproj.CoreCompileInputs.cache
+D:\Programação\Moving to .Net Core 2.0\BTD\obj\Debug\netcoreapp2.0\BTD.AssemblyInfoInputs.cache
+D:\Programação\Moving to .Net Core 2.0\BTD\obj\Debug\netcoreapp2.0\BTD.AssemblyInfo.cs
+D:\Programação\Moving to .Net Core 2.0\BTD\obj\Debug\netcoreapp2.0\BTD.dll
+D:\Programação\Moving to .Net Core 2.0\BTD\obj\Debug\netcoreapp2.0\BTD.pdb
