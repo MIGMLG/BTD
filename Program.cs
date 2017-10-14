@@ -1,6 +1,6 @@
 ﻿using System;
 using System.Linq;
-// Just Testing Git
+
 namespace BTD
 {
     public class Program
@@ -8,7 +8,7 @@ namespace BTD
         public static void Main()
         {
             Console.ForegroundColor = ConsoleColor.Green;
-            Console.WriteLine("Converter Binario para Decimal By NERD-X");
+            Console.WriteLine("Converter Binario para Decimal By DevMig");
             Translation();
         }
         public static void Translation()
